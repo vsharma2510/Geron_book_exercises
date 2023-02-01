@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Misc files
+test.ipynb
+test.ipynb
+datasets/housing/housing.csv
+.gitignore
+datasets/housing/housing.tgz
+.gitignore
+test.ipynb
+test.ipynb
